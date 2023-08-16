@@ -1,4 +1,4 @@
-package unshelledconsultancy.trybe_one_mobile
+package com.example.opticash
 
 import io.flutter.embedding.android.FlutterActivity
 

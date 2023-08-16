@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:voip/app/vm/inactivity_vm.dart';
+import 'package:opticash/app/vm/inactivity_vm.dart';
 
 class InActivityListener extends StatefulWidget {
   final Widget child;

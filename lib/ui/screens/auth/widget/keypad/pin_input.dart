@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 
-import 'package:voip/app/vm/home_vm.dart';
-import 'package:voip/ui/shared/bs/bs_wrapper.dart';
-import 'package:voip/ui/shared/bs/content/logout_bs.dart';
+import 'package:opticash/app/vm/home_vm.dart';
+import 'package:opticash/ui/shared/bs/bs_wrapper.dart';
+import 'package:opticash/ui/shared/bs/content/logout_bs.dart';
 import '../../../../utils/app_color.dart';
 import '../../../../utils/space.dart';
 

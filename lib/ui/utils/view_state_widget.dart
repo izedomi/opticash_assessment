@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:lottie/lottie.dart';
-import 'package:voip/ui/utils/space.dart';
+import 'package:opticash/ui/utils/space.dart';
 import '../../app/constants/lottie_image_asset.dart';
 import '../widgets/button_widgets.dart';
 import 'app_color.dart';

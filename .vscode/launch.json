@@ -25,13 +25,13 @@
             "type": "dart"
         },
         {
-            "name": "voip (profile mode)",
+            "name": "opticash (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "voip (release mode)",
+            "name": "opticash (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

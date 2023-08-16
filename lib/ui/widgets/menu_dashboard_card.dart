@@ -1,7 +1,7 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:voip/app/constants/font_family.dart';
+import 'package:opticash/app/constants/font_family.dart';
 import '../../app/constants/png_image_asset.dart';
 import '../utils/app_color.dart';
 import '../utils/space.dart';

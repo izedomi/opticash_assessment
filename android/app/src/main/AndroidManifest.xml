@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:tools="http://schemas.android.com/tools"
-    package="unshelledconsultancy.trybe_one_mobile">
+    package="com.example.opticash">
  
   <uses-permission android:name="android.permission.READ_PHONE_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
@@ -18,7 +18,7 @@ xmlns:tools="http://schemas.android.com/tools"
 
  
    <application
-        android:label="voip"
+        android:label="opticash"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:voip/app/constants/font_family.dart';
-import 'package:voip/ui/screens/tabs/account_tab.dart';
-import 'package:voip/ui/screens/tabs/card_tab.dart';
-import 'package:voip/ui/screens/tabs/home_tab.dart';
-import 'package:voip/ui/screens/tabs/swap_tab.dart';
+import 'package:opticash/app/constants/font_family.dart';
+import 'package:opticash/ui/screens/tabs/account_tab.dart';
+import 'package:opticash/ui/screens/tabs/card_tab.dart';
+import 'package:opticash/ui/screens/tabs/home_tab.dart';
+import 'package:opticash/ui/screens/tabs/swap_tab.dart';
 import '../../app/constants/png_image_asset.dart';
 import '../../app/models/bottom_nav.dart';
 import '../utils/app_color.dart';

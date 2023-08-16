@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:voip/app/constants/font_family.dart';
+import 'package:opticash/app/constants/font_family.dart';
 
 import '../../ui/utils/app_color.dart';
 

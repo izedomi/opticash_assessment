@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
-import 'package:voip/app/vm/home_vm.dart';
-import 'package:voip/ui/utils/app_color.dart';
-import 'package:voip/ui/utils/media_query.dart';
-import 'package:voip/ui/widgets/busy_overlay.dart';
+import 'package:opticash/app/vm/home_vm.dart';
+import 'package:opticash/ui/utils/app_color.dart';
+import 'package:opticash/ui/utils/media_query.dart';
+import 'package:opticash/ui/widgets/busy_overlay.dart';
 import '../../widgets/pattern_money.dart';
 
 class CardTab extends StatefulWidget {

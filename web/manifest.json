@@ -1,6 +1,6 @@
 {
-    "name": "voip",
-    "short_name": "voip",
+    "name": "opticash",
+    "short_name": "opticash",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

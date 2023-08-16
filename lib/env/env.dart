@@ -1,4 +1,4 @@
-import 'package:voip/env/prod_env.dart';
+import 'package:opticash/env/prod_env.dart';
 
 import '../app/utils/print.dart';
 import 'base_env.dart';

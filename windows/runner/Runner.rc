@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.voip" "\0"
-            VALUE "FileDescription", "voip" "\0"
+            VALUE "CompanyName", "com.opticash" "\0"
+            VALUE "FileDescription", "opticash" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "voip" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.voip. All rights reserved." "\0"
-            VALUE "OriginalFilename", "voip.exe" "\0"
-            VALUE "ProductName", "voip" "\0"
+            VALUE "InternalName", "opticash" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.opticash. All rights reserved." "\0"
+            VALUE "OriginalFilename", "opticash.exe" "\0"
+            VALUE "ProductName", "opticash" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

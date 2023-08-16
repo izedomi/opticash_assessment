@@ -4,10 +4,10 @@ import 'dart:io';
 import 'package:card_swiper/card_swiper.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:voip/app/constants/png_image_asset.dart';
-import 'package:voip/ui/screens/welcome/widgets/swipe_indicator.dart';
-import 'package:voip/ui/utils/app_color.dart';
-import 'package:voip/ui/utils/media_query.dart';
+import 'package:opticash/app/constants/png_image_asset.dart';
+import 'package:opticash/ui/screens/welcome/widgets/swipe_indicator.dart';
+import 'package:opticash/ui/utils/app_color.dart';
+import 'package:opticash/ui/utils/media_query.dart';
 
 import '../../../app/routes/routes.dart';
 import '../../utils/space.dart';

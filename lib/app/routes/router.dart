@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:voip/app/routes/routes.dart';
-import 'package:voip/ui/screens/auth/lock_screen.dart';
-import 'package:voip/ui/screens/auth/signup_screen.dart';
-import 'package:voip/ui/screens/home_screen.dart';
-import 'package:voip/ui/screens/welcome/intro_screen.dart';
+import 'package:opticash/app/routes/routes.dart';
+import 'package:opticash/ui/screens/auth/lock_screen.dart';
+import 'package:opticash/ui/screens/auth/signup_screen.dart';
+import 'package:opticash/ui/screens/home_screen.dart';
+import 'package:opticash/ui/screens/welcome/intro_screen.dart';
 import '../../ui/screens/auth/signin_screen.dart';
 import '../../ui/screens/welcome/splash_screen.dart';
 

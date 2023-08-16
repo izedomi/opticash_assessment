@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:voip/app/constants/png_image_asset.dart';
-import 'package:voip/app/routes/routes.dart';
-import 'package:voip/ui/utils/app_color.dart';
-import 'package:voip/ui/utils/media_query.dart';
-import 'package:voip/ui/utils/space.dart';
+import 'package:opticash/app/constants/png_image_asset.dart';
+import 'package:opticash/app/routes/routes.dart';
+import 'package:opticash/ui/utils/app_color.dart';
+import 'package:opticash/ui/utils/media_query.dart';
+import 'package:opticash/ui/utils/space.dart';
 
 import '../../../app/services/page_switcher_service.dart';
 

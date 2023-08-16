@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:voip/app/services/password_validator_service.dart';
-import 'package:voip/ui/utils/media_query.dart';
+import 'package:opticash/app/services/password_validator_service.dart';
+import 'package:opticash/ui/utils/media_query.dart';
 
 import '../../../utils/app_color.dart';
 import '../../../utils/space.dart';

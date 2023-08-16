@@ -13,11 +13,11 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.voip.voip</string>
+	<string>com.opticash.opticash</string>
 	<key>PROJECT_ID</key>
-	<string>voip-call-3f7b2</string>
+	<string>opticash-call-3f7b2</string>
 	<key>STORAGE_BUCKET</key>
-	<string>voip-call-3f7b2.appspot.com</string>
+	<string>opticash-call-3f7b2.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
