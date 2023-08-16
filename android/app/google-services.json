@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776840137825",
+    "firebase_url": "https://trybeone-c7f72-default-rtdb.firebaseio.com",
+    "project_id": "trybeone-c7f72",
+    "storage_bucket": "trybeone-c7f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776840137825:android:300e6a429421e753652e20",
+        "android_client_info": {
+          "package_name": "unshelledconsultancy.trybe_one_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776840137825-9epsuvkgff8ftlugsf3rg9cjvsdhi8b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH06-sVKvFMLL6VdkgRe4MUFECFXb5Kq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776840137825-9epsuvkgff8ftlugsf3rg9cjvsdhi8b0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776840137825-i9unsag2jgq1ns4e923q5g68nu13s1sa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trybeone.trybe",
+                "app_store_id": "6444292279"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

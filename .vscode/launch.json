@@ -1,0 +1,40 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        
+        {
+            "name": "main",
+            "request": "launch",
+            "program": "lib/main.dart",
+            "type": "dart"
+        },
+        {
+            "name": "main1",
+            "request": "launch",
+            "program": "lib/main1.dart",
+            "type": "dart"
+        },
+        {
+            "name": "Agora",
+            "request": "launch",
+            "program": "lib/main2.dart",
+            "type": "dart"
+        },
+        {
+            "name": "voip (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "voip (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
